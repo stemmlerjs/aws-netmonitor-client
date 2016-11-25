@@ -1,3 +1,3 @@
-# react-redux template
+# aws-netmonitor-client
 
-Default React-Redux App
+Client side of the research project.
